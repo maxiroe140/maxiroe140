@@ -23,7 +23,7 @@ I'm a passionate coder with a love for building creative projects—especially D
 | **Expert**   | Python, discord.py          |
 | **Very Good**| Flask                       |
 | **Good**     | HTML, PHP                   |
-| **Some**     | CSS, JavaScript, Java       |
+| **Familiar**     | CSS, JavaScript, Java       |
 
 ---
 
